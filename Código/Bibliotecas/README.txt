@@ -1,0 +1,1 @@
+Adicionar estas pasta à pasta "libraries" do Arduino
